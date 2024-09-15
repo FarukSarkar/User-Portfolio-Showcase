@@ -16,7 +16,7 @@ This is a simple web application that allows users to enter any GitHub username 
 
 ## Live Demo
 
-Check out the live demo of the project here: [Live Link](https://your-live-demo-link)
+Check out the live demo of the project here: [Live Link](https://faruksarkar.github.io/User-Portfolio-Showcase/)
 
 ## Features
 
